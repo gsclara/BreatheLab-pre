@@ -34,11 +34,11 @@
     <img src="img/logo.png" alt="Logo" width="200" height="150">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">BreatheLab pre-processing for CFD</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
+    Pre-processing steps included before running CFD
+<!--    <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
@@ -47,6 +47,7 @@
     <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
     <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+-->
   </p>
 </div>
 
