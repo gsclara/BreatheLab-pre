@@ -87,15 +87,17 @@
 In this git repo we collect together the steps that we run to set up and run urban CFD simulations.
 Within the pre-processing steps we include: 
 
+* Data collection
 * Geometry reconstruction
 * Surface features extraction
 * Mesh generation
 
 
-### Built With
+### Software used
 
 Our pre-processing steps use varios types of softwares of applications that are included in this non-exhaustive list:
 
+* [![openStreetMap][OSM.git]][OSM-url]
 * [![city4CFD][city4CFD.git]][city4CFD-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
@@ -242,7 +244,7 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[OSM-url]: https://www.openstreetmap.org/#map=12/40.4413/-79.9438
 [city4CFD-url]: https://github.com/tudelft3d/City4CFD
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
@@ -252,7 +254,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[OSM.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/OSM_small.jpg
 [city4CFD.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/city4CFDlogo_small.jpg 
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
