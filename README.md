@@ -254,7 +254,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[OSM.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/OSM_small.jpg
+[OSM.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/OSM_logo_small.jpg
 [city4CFD.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/city4CFDlogo_small.jpg 
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
