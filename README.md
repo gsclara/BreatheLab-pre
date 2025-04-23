@@ -97,8 +97,8 @@ Within the pre-processing steps we include:
 
 Our pre-processing steps use varios types of softwares of applications that are included in this non-exhaustive list:
 
-* [![openStreetMap][OSM.git]][OSM-url]
-* [![city4CFD][city4CFD.git]][city4CFD-url]
+[![openStreetMap][OSM.git]][OSM-url]      [![city4CFD][city4CFD.git]][city4CFD-url]
+<!--
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
@@ -106,6 +106,7 @@ Our pre-processing steps use varios types of softwares of applications that are 
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
+-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
