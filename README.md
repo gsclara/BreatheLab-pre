@@ -197,7 +197,7 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-[![Akshay][Akshay.git]][Akshay-url]      [![Miguel][Miguel.git]][Miguel-url]      [![Ivan][Ivan.git]][Ivan-url]        [![Nadine][Nadine.git]][Nadine-url]        [![Giri][Giri.git]][Giri-url]       [![Alvaro][Alvaro.git]][Alvaro-url]
+[![Akshay][Akshay.git]][Akshay-url]      [![Miguel][Miguel.git]][Miguel-url]      [![Ivan][Ivan.git]][Ivan-url]        [![Nadine][Nadine.git]][Nadine-url]        [![Alvaro][Alvaro.git]][Alvaro-url]
 
 
 <!--
