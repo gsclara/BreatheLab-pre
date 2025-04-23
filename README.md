@@ -197,9 +197,14 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
+[![Akshay][Akshay.git]][Akshay-url]      [![Miguel][Miguel.git]][Miguel-url]      [![Ivan][Ivan.git]][Ivan-url]        [![Nadine][Nadine.git]][Nadine-url]        [![Giri][Giri.git]][Giri-url]       [![Alvaro][Alvaro.git]][Alvaro-url]
+
+
+<!--
 <a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
 </a>
+-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -243,8 +248,16 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[akshay-url]: https://github.com/orgs/tudelft3d/people/AkshayPatil1994
+[akshay.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/APatil.jpg
+[nadine-url]: https://github.com/orgs/tudelft3d/people/NadHobeika
+[nadine.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/NHobeika.jpg
+[miguel-url]: https://github.com/orgs/tudelft3d/people/migmartin
+[miguel.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/MMartin.jpg
+[alvaro-url]: https://github.com/AlvaroManzano
+[alvaro.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/AManzano.jpg
+[ivan-url]: https://github.com/ipadjen
+[ivan.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/IPadjen.jpg
 [LASTools-url]: https://lastools.github.io/
 [CC-url]: https://www.danielgm.net/cc/
 [QGIS-url]: https://qgis.org/
