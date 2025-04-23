@@ -255,7 +255,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [miguel-url]: https://github.com/orgs/tudelft3d/people/migmartin
 [miguel.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/MMartin_small.jpg
 [alvaro-url]: https://github.com/AlvaroManzano
-[alvaro.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/AManzano_samll.jpg
+[alvaro.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/AManzano_small.jpg
 [ivan-url]: https://github.com/ipadjen
 [ivan.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/IPadjen_small.png
 [LASTools-url]: https://lastools.github.io/
