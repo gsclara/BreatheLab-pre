@@ -258,7 +258,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[LASTools.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/LASTools_logo_small.jpg
+[LASTools.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/LASTools_logo_small.png
 [CC.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/CC_logo_small.jpg
 [QGIS.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/qgis_logo_small.jpg
 [OSM.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/osm_logo_small.jpg
