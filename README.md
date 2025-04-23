@@ -249,15 +249,15 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [akshay-url]: https://github.com/orgs/tudelft3d/people/AkshayPatil1994
-[akshay.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/APatil.jpg
+[akshay.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/APatil_small.jpg
 [nadine-url]: https://github.com/orgs/tudelft3d/people/NadHobeika
-[nadine.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/NHobeika.jpg
+[nadine.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/NHobeika_small.png
 [miguel-url]: https://github.com/orgs/tudelft3d/people/migmartin
-[miguel.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/MMartin.jpg
+[miguel.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/MMartin_small.jpg
 [alvaro-url]: https://github.com/AlvaroManzano
-[alvaro.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/AManzano.jpg
+[alvaro.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/AManzano_samll.jpg
 [ivan-url]: https://github.com/ipadjen
-[ivan.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/IPadjen.jpg
+[ivan.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/IPadjen_small.png
 [LASTools-url]: https://lastools.github.io/
 [CC-url]: https://www.danielgm.net/cc/
 [QGIS-url]: https://qgis.org/
