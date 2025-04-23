@@ -97,7 +97,7 @@ Within the pre-processing steps we include:
 
 Our pre-processing steps use varios types of softwares of applications that are included in this non-exhaustive list:
 
-[![openStreetMap][OSM.git]][OSM-url]      [![city4CFD][city4CFD.git]][city4CFD-url]
+[![openStreetMap][OSM.git]][OSM-url]      [![city4CFD][city4CFD.git]][city4CFD-url]      [![QGIS][QGIS.git]][QGIS-url]  
 <!--
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
@@ -245,6 +245,7 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[QGIS-url]: https://qgis.org/
 [OSM-url]: https://www.openstreetmap.org/#map=12/40.4413/-79.9438
 [city4CFD-url]: https://github.com/tudelft3d/City4CFD
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
@@ -255,6 +256,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
+[QGIS.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/qgis_small.jpg
 [OSM.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/osm_logo_small.jpg
 [city4CFD.git]: https://github.com/gsclara/BreatheLab-pre/blob/main/img/city4CFDlogo_small.jpg 
 [Next-url]: https://nextjs.org/
