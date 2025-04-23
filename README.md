@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/gsclara/BreatheLab-pre/blob/main/">
-    <img src="img/logo.png" alt="Logo" width="250" height="150">
+    <img src="img/logo.png" alt="Logo" width="250" height="120">
   </a>
 
   <h3 align="center">BreatheLab pre-processing for CFD</h3>
